@@ -1,0 +1,6 @@
+data ( [
+{"name":"Raed Zamamiri","job":"Designer","live":"Jerusalem"},
+{"name":"Ali Salhi","job":"Developer","live":"Beit-hanina"},
+{"name":"Hani Fayez","job":"Driver","live":"Beit-Sahour"},
+{"name":"Ala Nabhan","job":"Developer","live":"Al-Tur"},
+])
